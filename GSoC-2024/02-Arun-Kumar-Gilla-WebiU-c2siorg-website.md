@@ -1,7 +1,7 @@
 # Project Name
 Webiu
 # Project Abstract
-Webiu is organisation webpage where users can understand more about organisition. This website is developed using angular for frontend and nodejs for backend and by using github api calls for fetching data of organisation. This project aims to fetch realtime projects handled by organisation and its details , and showing contributors who has contributed for this organisation.
+Webiu is organisation webpage where users can understand more about organisition. This website is developed using angular for frontend and nodejs for backend and by using github api calls for fetching data of organisation. This project aims to fetch realtime projects handled by organisation and its details, and showing contributors who has contributed for this organisation.
 
 ## [GSoC Project Page](https://summerofcode.withgoogle.com/myprojects/details/aqdFveGO)
 
